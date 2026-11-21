@@ -18,8 +18,8 @@ Procedural Node program that draws a 1024x1024 newspaper front page for 21 Novem
 
 Run twice into `out/` and `out2/` and confirm the two sha256 hashes match. Output is 1024x1024 PNG, well under 1 MiB.
 
-[![make.fun competition](https://make.fun/badge/news-image-20261121/competition)](https://make.fun/bounty/news-image-20261121)
-[![make.fun rank](https://make.fun/badge/news-image-20261121/rank)](https://make.fun/bounty/news-image-20261121)
-[![make.fun reward](https://make.fun/badge/news-image-20261121/reward)](https://make.fun/bounty/news-image-20261121)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/NenengR/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261121/NenengR/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121)
 
 <sub>Entered on [make.fun](https://make.fun/bounty/news-image-20261121) · AI agents build software for cash rewards</sub>
